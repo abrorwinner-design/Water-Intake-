@@ -1,0 +1,233 @@
+{
+  "survey_title": "Water Intake Reminder Use and Daily Energy Stability Questionnaire",
+  "description": "This survey assesses your use of reminders for water intake and the stability of your daily energy levels.",
+  "questions": [
+    {
+      "id": 1,
+      "text": "How often do you use reminders (app, alarm, or habit) to drink water throughout the day?",
+      "options": [
+        {"label": "Multiple times a day — always reminded", "score": 0},
+        {"label": "Once or twice a day", "score": 1},
+        {"label": "Occasionally, not consistently", "score": 2},
+        {"label": "Rarely — only when very thirsty", "score": 3},
+        {"label": "Never — I forget entirely", "score": 4}
+      ]
+    },
+    {
+      "id": 2,
+      "text": "How stable is your energy level throughout the day when you are well-hydrated?",
+      "options": [
+        {"label": "Very stable — consistent energy all day", "score": 0},
+        {"label": "Mostly stable with minor dips", "score": 1},
+        {"label": "Moderate — noticeable afternoon slump", "score": 2},
+        {"label": "Unstable — frequent fatigue", "score": 3},
+        {"label": "Very unstable — constant exhaustion", "score": 4}
+      ]
+    },
+    {
+      "id": 3,
+      "text": "How many glasses of water do you typically drink per day?",
+      "options": [
+        {"label": "8 or more glasses", "score": 0},
+        {"label": "6–7 glasses", "score": 1},
+        {"label": "4–5 glasses", "score": 2},
+        {"label": "2–3 glasses", "score": 3},
+        {"label": "1 or fewer glasses", "score": 4}
+      ]
+    },
+    {
+      "id": 4,
+      "text": "How often do you experience headaches that you believe are related to dehydration?",
+      "options": [
+        {"label": "Never", "score": 0},
+        {"label": "Rarely — once a month or less", "score": 1},
+        {"label": "Sometimes — a few times a month", "score": 2},
+        {"label": "Often — weekly", "score": 3},
+        {"label": "Almost daily", "score": 4}
+      ]
+    },
+    {
+      "id": 5,
+      "text": "How well do you concentrate on mental tasks during a typical day?",
+      "options": [
+        {"label": "Excellent — sharp and focused all day", "score": 0},
+        {"label": "Good — mostly focused with minor lapses", "score": 1},
+        {"label": "Average — distracted at times", "score": 2},
+        {"label": "Poor — frequently unfocused", "score": 3},
+        {"label": "Very poor — unable to concentrate", "score": 4}
+      ]
+    },
+    {
+      "id": 6,
+      "text": "How often do you feel physically fatigued by midday?",
+      "options": [
+        {"label": "Never", "score": 0},
+        {"label": "Rarely", "score": 1},
+        {"label": "Sometimes", "score": 2},
+        {"label": "Often", "score": 3},
+        {"label": "Always", "score": 4}
+      ]
+    },
+    {
+      "id": 7,
+      "text": "How frequently do you replace water with sugary drinks (sodas, juices) as your main beverage?",
+      "options": [
+        {"label": "Never — water is my primary drink", "score": 0},
+        {"label": "Rarely — occasionally have a sugary drink", "score": 1},
+        {"label": "Sometimes — a few times a week", "score": 2},
+        {"label": "Often — most days", "score": 3},
+        {"label": "Always — I rarely drink plain water", "score": 4}
+      ]
+    },
+    {
+      "id": 8,
+      "text": "How often do you notice dry mouth or excessive thirst during the day?",
+      "options": [
+        {"label": "Never", "score": 0},
+        {"label": "Rarely", "score": 1},
+        {"label": "Sometimes", "score": 2},
+        {"label": "Often", "score": 3},
+        {"label": "Constantly throughout the day", "score": 4}
+      ]
+    },
+    {
+      "id": 9,
+      "text": "How satisfied are you with your current water-drinking habits?",
+      "options": [
+        {"label": "Very satisfied — my habits are excellent", "score": 0},
+        {"label": "Satisfied — mostly good habits", "score": 1},
+        {"label": "Neutral — room for improvement", "score": 2},
+        {"label": "Dissatisfied — I know I should drink more", "score": 3},
+        {"label": "Very dissatisfied — my habits are poor", "score": 4}
+      ]
+    },
+    {
+      "id": 10,
+      "text": "How often do you drink water before or during physical activity?",
+      "options": [
+        {"label": "Always — before, during, and after", "score": 0},
+        {"label": "Usually — most of the time", "score": 1},
+        {"label": "Sometimes — depends on the activity", "score": 2},
+        {"label": "Rarely — only if very thirsty", "score": 3},
+        {"label": "Never — I forget during exercise", "score": 4}
+      ]
+    },
+    {
+      "id": 11,
+      "text": "How often do you experience mood changes or irritability that you associate with not drinking enough water?",
+      "options": [
+        {"label": "Never", "score": 0},
+        {"label": "Rarely", "score": 1},
+        {"label": "Sometimes", "score": 2},
+        {"label": "Often", "score": 3},
+        {"label": "Very frequently", "score": 4}
+      ]
+    },
+    {
+      "id": 12,
+      "text": "How often do you track your daily water intake (app, journal, water bottle markers)?",
+      "options": [
+        {"label": "Every day — I actively track it", "score": 0},
+        {"label": "Most days", "score": 1},
+        {"label": "Occasionally", "score": 2},
+        {"label": "Rarely", "score": 3},
+        {"label": "Never — I don't track it at all", "score": 4}
+      ]
+    },
+    {
+      "id": 13,
+      "text": "How often do you drink a glass of water immediately upon waking up in the morning?",
+      "options": [
+        {"label": "Every morning without fail", "score": 0},
+        {"label": "Most mornings", "score": 1},
+        {"label": "Sometimes", "score": 2},
+        {"label": "Rarely", "score": 3},
+        {"label": "Never", "score": 4}
+      ]
+    },
+    {
+      "id": 14,
+      "text": "How does your productivity at work or study relate to your hydration habits?",
+      "options": [
+        {"label": "Very high productivity — hydration helps greatly", "score": 0},
+        {"label": "Good productivity — hydration has a positive effect", "score": 1},
+        {"label": "Moderate — some impact noticed", "score": 2},
+        {"label": "Low productivity — often dehydrated at work", "score": 3},
+        {"label": "Very low — dehydration significantly affects my work", "score": 4}
+      ]
+    },
+    {
+      "id": 15,
+      "text": "How often do you feel dizzy or lightheaded, possibly due to insufficient water intake?",
+      "options": [
+        {"label": "Never", "score": 0},
+        {"label": "Rarely — once in a while", "score": 1},
+        {"label": "Sometimes — a few times a month", "score": 2},
+        {"label": "Often — weekly occurrences", "score": 3},
+        {"label": "Very frequently — almost daily", "score": 4}
+      ]
+    },
+    {
+      "id": 16,
+      "text": "How aware are you of the recommended daily water intake for your body weight and activity level?",
+      "options": [
+        {"label": "Very aware — I know exactly and follow it", "score": 0},
+        {"label": "Mostly aware — I have a general idea", "score": 1},
+        {"label": "Somewhat aware — I've heard general advice", "score": 2},
+        {"label": "Slightly aware — I'm not sure of the details", "score": 3},
+        {"label": "Not aware at all", "score": 4}
+      ]
+    },
+    {
+      "id": 17,
+      "text": "How often do you consume caffeine (coffee, energy drinks) as a substitute for water?",
+      "options": [
+        {"label": "Never — I drink plenty of water instead", "score": 0},
+        {"label": "Rarely — occasionally have one caffeinated drink", "score": 1},
+        {"label": "Sometimes — 1–2 caffeinated drinks a day", "score": 2},
+        {"label": "Often — 3–4 caffeinated drinks daily", "score": 3},
+        {"label": "Always — caffeine is my main fluid source", "score": 4}
+      ]
+    },
+    {
+      "id": 18,
+      "text": "How often do you feel that your skin appears dull or dry, which you attribute to low water intake?",
+      "options": [
+        {"label": "Never — my skin looks healthy and hydrated", "score": 0},
+        {"label": "Rarely", "score": 1},
+        {"label": "Sometimes", "score": 2},
+        {"label": "Often", "score": 3},
+        {"label": "Almost always", "score": 4}
+      ]
+    },
+    {
+      "id": 19,
+      "text": "How often do you feel motivated to increase your water intake after experiencing low-energy episodes?",
+      "options": [
+        {"label": "Always — I immediately increase hydration", "score": 0},
+        {"label": "Often — I try to drink more", "score": 1},
+        {"label": "Sometimes — I think about it but forget", "score": 2},
+        {"label": "Rarely — I don't connect the two", "score": 3},
+        {"label": "Never — I don't associate energy with hydration", "score": 4}
+      ]
+    },
+    {
+      "id": 20,
+      "text": "Overall, how would you rate your hydration habits and their effect on your daily energy stability?",
+      "options": [
+        {"label": "Excellent — I am well-hydrated with stable energy", "score": 0},
+        {"label": "Good — generally hydrated with minor issues", "score": 1},
+        {"label": "Fair — inconsistent hydration, noticeable fatigue", "score": 2},
+        {"label": "Poor — rarely hydrated, often fatigued", "score": 3},
+        {"label": "Very poor — consistently dehydrated and low energy", "score": 4}
+      ]
+    }
+  ],
+  "psychological_states": [
+    {"min": 0,  "max": 15, "label": "Excellent Hydration & Energy", "description": "Outstanding reminder use and energy stability. Your habits are exemplary — keep it up!"},
+    {"min": 16, "max": 30, "label": "Good Hydration Habits",        "description": "Good habits with minor gaps. Continue your current routine and make small improvements."},
+    {"min": 31, "max": 45, "label": "Moderate Stability",            "description": "Moderate hydration consistency. Increasing daily water reminders is recommended."},
+    {"min": 46, "max": 60, "label": "Low Energy — Prioritise Hydration", "description": "Low energy levels likely linked to irregular hydration. Set structured reminders and monitor intake."},
+    {"min": 61, "max": 65, "label": "Poor Hydration Patterns",       "description": "Poor hydration habits with significant energy instability. Seek nutritional or lifestyle guidance."}
+  ]
+}
